@@ -4,9 +4,9 @@ Os exercícios deste repositório foram aplicados aos alunos do curso de [Pós-G
 
 Para tal, a plataforma [URI Online Judge](https://www.urionlinejudge.com.br) foi utilizada como parte do recurso educacional desta disciplina. 
 
-### [Lista de Exercícios de estruturas sequênciais:](/IMMC/tree/master/estrut_Sequen)
+### [Lista de Exercícios de estruturas sequênciais:](/estrut_Sequen)
 #
-[Exercício 1000:](/IMMC/tree/master/estrut_Sequen/hello_world.py)\
+[Exercício 1000:](/estrut_Sequen/hello_world.py)\
 URI Online Judge | Hello World! | 1000
 Autor: Jean Bez, URI Online Judge Brasil
 
@@ -14,7 +14,7 @@ Autor: Jean Bez, URI Online Judge Brasil
 Entrada: Este problema não possui nenhuma entrada.\
 Saída: Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha.
 
-[Exercício 1002:](/IMMC/tree/master/estrut_Sequen/area_circulo.py)\
+[Exercício 1002:](/estrut_Sequen/area_circulo.py)\
 URI Online Judge | Área do Círculo | 1002
 Adaptado: Neilor Tonin, URI Online Judge Brasil
 
