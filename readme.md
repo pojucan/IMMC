@@ -4,7 +4,7 @@ Os exercícios deste repositório foram aplicados aos alunos do curso de [Pós-G
 
 Para tal, a plataforma [URI Online Judge](https://www.urionlinejudge.com.br) foi utilizada como parte do recurso educacional desta disciplina. 
 
-### [Lista de Exercícios de estruturas sequênciais:](/estrut_Sequen)
+### [Lista de Exercícios de estruturas sequênciais:](estrut_Sequen/)
 #
 [Exercício 1000:](/estrut_Sequen/hello_world.py)\
 URI Online Judge | Hello World! | 1000
