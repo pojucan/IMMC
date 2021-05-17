@@ -4,9 +4,9 @@ Os exercícios deste repositório foram aplicados aos alunos do curso de [Pós-G
 
 Para tal, a plataforma [URI Online Judge](https://www.urionlinejudge.com.br) foi utilizada como parte do recurso educacional desta disciplina. 
 
-### [Lista de Exercícios de estruturas sequênciais:](IMMC/estrut_Sequen/)
+### [Lista de Exercícios de estruturas sequênciais:](/IMMC/tree/master/estrut_Sequen)
 #
-[Exercício 1000:](IMMC/estrut_Sequen/hello_world.py)\
+[Exercício 1000:](/IMMC/tree/master/estrut_Sequen/hello_world.py)\
 URI Online Judge | Hello World! | 1000
 Autor: Jean Bez, URI Online Judge Brasil
 
@@ -14,7 +14,7 @@ Autor: Jean Bez, URI Online Judge Brasil
 Entrada: Este problema não possui nenhuma entrada.\
 Saída: Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha.
 
-[Exercício 1002:](IMMC/estrut_Sequen/area_circulo.py)\
+[Exercício 1002:](/IMMC/tree/master/estrut_Sequen/area_circulo.py)\
 URI Online Judge | Área do Círculo | 1002
 Adaptado: Neilor Tonin, URI Online Judge Brasil
 
@@ -22,7 +22,7 @@ Adaptado: Neilor Tonin, URI Online Judge Brasil
 A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159: Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.
 Entrada: A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio.
 
-[Exercício 1007:](IMMC/estrut_Sequen/diferenca.py)\
+[Exercício 1007:](/IMMC/tree/master/estrut_Sequen/diferenca.py)\
 URI Online Judge | Diferença | 1007
 Adaptado: Neilor Tonin, URI Online Judge Brasil
 
@@ -31,7 +31,7 @@ Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferenç
 Entrada: O arquivo de entrada contém 4 valores inteiros.\
 Saída: Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
 
-[Exercício 1008:](IMMC/estrut_Sequen/salario.py)\
+[Exercício 1008:](/IMMC/tree/master/estrut_Sequen/salario.py)\
 URI Online Judge | Salário | 1008
 Adaptado: Neilor Tonin, URI Online Judge Brasil
 
@@ -40,7 +40,7 @@ Escreva um programa que leia o número de um funcionário, seu número de horas 
 Entrada: O arquivo de entrada contém 2 números inteiros e 1 número com duas casas decimais, representando o número, quantidade de horas trabalhadas e o valor que o funcionário recebe por hora trabalhada, respectivamente.\
 Saída: Imprima o número e o salário do funcionário, conforme exemplo fornecido, com um espaço em branco antes e depois da igualdade. No caso do salário, também deve haver um espaço em branco após o $.
 
-[Exercício 1011:](IMMC/estrut_Sequen/esfera.py)\
+[Exercício 1011:](/IMMC/tree/master/estrut_Sequen/esfera.py)\
 URI Online Judge | Esfera | 1011
 Adaptado: Neilor Tonin, URI Online Judge Brasil
 
@@ -49,7 +49,7 @@ Faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o 
 Entrada: O arquivo de entrada contém um valor de ponto flutuante (dupla precisão), correspondente ao raio da esfera.\
 Saída: A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, com um espaço antes e um espaço depois da igualdade. O valor deverá ser apresentado com 3 casas após o ponto.
 
-[Exercício 1014:](IMMC/estrut_Sequen/consumo.py)\
+[Exercício 1014:](/IMMC/tree/master/estrut_Sequen/consumo.py)\
 URI Online Judge | Consumo | 1014
 Adaptado: Neilor Tonin, URI Online Judge Brasil
 
@@ -59,7 +59,7 @@ Calcule o consumo médio de um automóvel sendo fornecidos a distância total pe
 Entradas: O arquivo de entrada contém dois valores: um valor inteiro X representando a distância total percorrida (em Km), e um valor real Y representando o total de combustível gasto, com um dígito após o ponto decimal.\
 Saídas: Apresente o valor que representa o consumo médio do automóvel com 3 casas após a vírgula, seguido da mensagem "km/l".
 
-[Exercício 1015:](estrut_Sequen/distancia_pontos.py)\
+[Exercício 1015:](/IMMC/tree/master/estrut_Sequen/distancia_pontos.py)\
 URI Online Judge | Distância Entre Dois Pontos | 1015
 Adaptado: Neilor Tonin, URI Online Judge Brasil
 
