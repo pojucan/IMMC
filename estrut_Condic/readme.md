@@ -12,7 +12,7 @@ e se a variável A for par escrever a mensagem "Valores aceitos",
 senão escrever "Valores nao aceitos".\
 Entrada: Quatro números inteiros A, B, C e D.\
 Saída: Mostre a respectiva mensagem após a validação dos valores.\
-[Resolução](estrut_Condic/1035-teste_selecao1.py)
+[Resolução](1035-teste_selecao1.py)
 #
 #### Exercício 1038:
 URI Online Judge | Lanche | 1038
@@ -37,7 +37,7 @@ conforme tabela acima.
 Saída: O arquivo de saída deve conter a mensagem "Total: R$ " 
 seguido pelo valor a ser pago, com 2 casas após o ponto 
 decimal.\
-[Resolução](estrut_Condic/1038-lanche.py)
+[Resolução](1038-lanche.py)
 #
 #### Exercícios 1041:
 URI Online Judge | Coordenadas de um Ponto | 1041
@@ -53,5 +53,5 @@ Se o ponto estiver na origem, escreva a mensagem “Origem”.
 Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y",conforme for a situação.\
 Entrada: A entrada contem as coordenadas de um ponto.
 Saída: A saída deve apresentar o quadrante em que o ponto se encontra.\
-[Resolução](estrut_Condic/1041-coordenadas_ponto.py)
+[Resolução](1041-coordenadas_ponto.py)
 ### [Voltar ao diretório principal](IMMC/)
