@@ -1,4 +1,4 @@
-### [Lista de Exercícios de estruturas sequênciais:](estrut_Sequen/)
+### Lista de Exercícios de estruturas sequênciais:
 #
 #### Exercício 1000:
 URI Online Judge | Hello World! | 1000
@@ -69,4 +69,4 @@ Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer 
 Entradas: O arquivo de entrada contém duas linhas de dados. A primeira linha contém dois valores de ponto flutuante: x1 y1 e a segunda linha contém dois valores de ponto flutuante x2 y2.\
 Saídas: Calcule e imprima o valor da distância segundo a fórmula fornecida, com 4 casas após o ponto decimal.\
 [Resolução](1015-distancia_pontos.py)
-### [Voltar ao diretório principal](IMMC/)
+### [Voltar ao diretório principal](pojucan/IMMC/)
