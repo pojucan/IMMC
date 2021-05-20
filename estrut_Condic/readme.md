@@ -54,4 +54,3 @@ Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y",conform
 Entrada: A entrada contem as coordenadas de um ponto.
 Saída: A saída deve apresentar o quadrante em que o ponto se encontra.\
 [Resolução](1041-coordenadas_ponto.py)
-### [Voltar ao diretório principal](pojucan/IMMC/)

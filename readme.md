@@ -4,5 +4,5 @@ Os exercícios deste repositório foram aplicados aos alunos do curso de [Pós-G
 
 Para tal, a plataforma [URI Online Judge](https://www.urionlinejudge.com.br) foi utilizada como parte do recurso educacional desta disciplina.
 #
-#### [Acesso à lista de exercícios de estruturas condicionais:](estrut_Condic/)
-#### [Acesso à lista de exercícios de estruturas sequênciais:](estrut_Sequen/)
+#### [Acesso à lista de exercícios de estruturas condicionais](estrut_Condic/)
+#### [Acesso à lista de exercícios de estruturas sequênciais](estrut_Sequen/)
