@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 
 
 listaCodigo = [1, 2, 3, 4, 5]
 listaPreco = [4.00, 4.50, 5.00, 2.00, 1.50]
